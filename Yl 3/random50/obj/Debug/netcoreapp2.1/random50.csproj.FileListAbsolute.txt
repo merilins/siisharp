@@ -1,0 +1,11 @@
+C:\Users\Merilin\Desktop\random50\random50\bin\Debug\netcoreapp2.1\random50.deps.json
+C:\Users\Merilin\Desktop\random50\random50\bin\Debug\netcoreapp2.1\random50.runtimeconfig.json
+C:\Users\Merilin\Desktop\random50\random50\bin\Debug\netcoreapp2.1\random50.runtimeconfig.dev.json
+C:\Users\Merilin\Desktop\random50\random50\bin\Debug\netcoreapp2.1\random50.dll
+C:\Users\Merilin\Desktop\random50\random50\bin\Debug\netcoreapp2.1\random50.pdb
+C:\Users\Merilin\Desktop\random50\random50\obj\Debug\netcoreapp2.1\random50.csprojAssemblyReference.cache
+C:\Users\Merilin\Desktop\random50\random50\obj\Debug\netcoreapp2.1\random50.csproj.CoreCompileInputs.cache
+C:\Users\Merilin\Desktop\random50\random50\obj\Debug\netcoreapp2.1\random50.AssemblyInfoInputs.cache
+C:\Users\Merilin\Desktop\random50\random50\obj\Debug\netcoreapp2.1\random50.AssemblyInfo.cs
+C:\Users\Merilin\Desktop\random50\random50\obj\Debug\netcoreapp2.1\random50.dll
+C:\Users\Merilin\Desktop\random50\random50\obj\Debug\netcoreapp2.1\random50.pdb

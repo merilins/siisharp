@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Merilin\\Desktop\\trips-traps-trull\\trips-traps-trull\\trips-traps-trull.csproj",
+      "projectUniqueName": "C:\\Users\\Merilin\\Desktop\\ciisharp\\trips-traps-trull\\trips-traps-trull\\trips-traps-trull.csproj",
       "projectName": "trips-traps-trull",
-      "projectPath": "C:\\Users\\Merilin\\Desktop\\trips-traps-trull\\trips-traps-trull\\trips-traps-trull.csproj",
+      "projectPath": "C:\\Users\\Merilin\\Desktop\\ciisharp\\trips-traps-trull\\trips-traps-trull\\trips-traps-trull.csproj",
       "packagesPath": "C:\\Users\\Merilin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Merilin\\Desktop\\trips-traps-trull\\trips-traps-trull\\obj\\",
+      "outputPath": "C:\\Users\\Merilin\\Desktop\\ciisharp\\trips-traps-trull\\trips-traps-trull\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

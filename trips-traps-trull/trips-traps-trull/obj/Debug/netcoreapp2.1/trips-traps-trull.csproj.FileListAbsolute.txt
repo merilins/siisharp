@@ -1,0 +1,11 @@
+C:\Users\Merilin\Desktop\trips-traps-trull\trips-traps-trull\bin\Debug\netcoreapp2.1\trips-traps-trull.deps.json
+C:\Users\Merilin\Desktop\trips-traps-trull\trips-traps-trull\bin\Debug\netcoreapp2.1\trips-traps-trull.runtimeconfig.json
+C:\Users\Merilin\Desktop\trips-traps-trull\trips-traps-trull\bin\Debug\netcoreapp2.1\trips-traps-trull.runtimeconfig.dev.json
+C:\Users\Merilin\Desktop\trips-traps-trull\trips-traps-trull\bin\Debug\netcoreapp2.1\trips-traps-trull.dll
+C:\Users\Merilin\Desktop\trips-traps-trull\trips-traps-trull\bin\Debug\netcoreapp2.1\trips-traps-trull.pdb
+C:\Users\Merilin\Desktop\trips-traps-trull\trips-traps-trull\obj\Debug\netcoreapp2.1\trips-traps-trull.csprojAssemblyReference.cache
+C:\Users\Merilin\Desktop\trips-traps-trull\trips-traps-trull\obj\Debug\netcoreapp2.1\trips-traps-trull.csproj.CoreCompileInputs.cache
+C:\Users\Merilin\Desktop\trips-traps-trull\trips-traps-trull\obj\Debug\netcoreapp2.1\trips-traps-trull.AssemblyInfoInputs.cache
+C:\Users\Merilin\Desktop\trips-traps-trull\trips-traps-trull\obj\Debug\netcoreapp2.1\trips-traps-trull.AssemblyInfo.cs
+C:\Users\Merilin\Desktop\trips-traps-trull\trips-traps-trull\obj\Debug\netcoreapp2.1\trips-traps-trull.dll
+C:\Users\Merilin\Desktop\trips-traps-trull\trips-traps-trull\obj\Debug\netcoreapp2.1\trips-traps-trull.pdb
